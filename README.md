@@ -6,12 +6,21 @@ This cheat-sheet is for my configuration of Emacs.  [See below](#configuration)
 * `⌃X f` Open file
 * `⌃C p s` Switch to another known project [ⓘ](https://github.com/bbatsov/projectile)
 
-#### Navigation
+#### Windows/Buffers
 
 * `⇧←↑↓→` Navigate windows [ⓘ](http://www.emacswiki.org/emacs/WindMove)
 * `⌃X 0` Close current window [ⓘ]((http://www.gnu.org/software/emacs/manual/html_node/emacs/Change-Window.html#Change-Window)
 * `⌃X k` Close current buffer
 * `⌃X 2 / ⌃X 3` Vertical/horizontal split [ⓘ](http://www.gnu.org/software/emacs/manual/html_node/emacs/Split-Window.html#Split-Window)
+
+#### Navigation
+
+* `⌃S` Search
+* `⌥G g` Go to line
+
+#### Editing
+
+* `⌥X replace-string` search and replace
 
 #### REPL
 
